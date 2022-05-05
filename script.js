@@ -18,7 +18,7 @@ var generatePassword = function () {
 
   console.log(userCharacter);
   // Asking users what critera wanted for password. 
-  var userUppChoice = window.confirm("Do you want your password to have UPPERCASE letters?");
+  var userUppChoice = window.confirm("Do you want your password to have UPPERCASE letters? \nOkay = Yes \nCancel = No");
   var userLowChoice = window.confirm("Do you want your password to have lowercase letters?");
   var userNumbers = window.confirm("Do you want your password to have numbers?");
   var userSpecialChar = window.confirm("Do you want your password to have special characters?");
