@@ -8,12 +8,17 @@ If you need uppercase letters, lowercase letters, special characters or numbers 
 
 
 Once you click, "generate password" You will be asked a series of questions regarding your password 
+
 How many characters?
 If you pick an amount of characters that is not within our limit, you will be told our character limit once more, then brought back to the beginning. 
+
 After choosing your character limit, you will be asked 
 Do you want Uppercase letters? Along with the correct buttons to press for yes and no. 
+
 Do you want lowercase letters? 
+
 Do you want numbers?
+
 Do you want special characters? 
 
 If you answered "okay" to any of these questions it will generate a password with your specific criteria, including the number of characters you chose. 
