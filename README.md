@@ -12,7 +12,7 @@ Once you click, "generate password" You will be asked a series of questions rega
 
 How many characters?
 If you pick an amount of characters that is not within our limit, you will be told our character limit once more, then brought back to the beginning. 
-
+<img width="1440" alt="Screen Shot 2022-05-06 at 3 59 37 PM" src="https://user-images.githubusercontent.com/101439331/167221707-04882b21-dd18-477e-81a3-97f3d09fec09.png">
 After choosing your character limit, you will be asked 
 Do you want Uppercase letters? Along with the correct buttons to press for yes and no. 
 
