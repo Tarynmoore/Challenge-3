@@ -5,6 +5,7 @@ Well, here's an easy place to get a password generated for you.
 The password generator will cohert to any password required by the website. 
 The password length has to be between 8-128 characters.
 If you need uppercase letters, lowercase letters, special characters or numbers it will be generated into a special password just for you. 
+<img width="1440" alt="Screen Shot 2022-05-06 at 3 58 16 PM" src="https://user-images.githubusercontent.com/101439331/167221600-d0f0aabb-d83c-4ad2-a400-56246ba1c516.png">
 
 
 Once you click, "generate password" You will be asked a series of questions regarding your password 
