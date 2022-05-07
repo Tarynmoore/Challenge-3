@@ -8,6 +8,10 @@ If you need uppercase letters, lowercase letters, special characters or numbers 
 <img width="1000" alt="Screen Shot 2022-05-06 at 3 58 16 PM" src="https://user-images.githubusercontent.com/101439331/167221600-d0f0aabb-d83c-4ad2-a400-56246ba1c516.png">
 
 
+
+
+
+
 Once you click, "generate password" You will be asked a series of questions regarding your password 
 
 How many characters?
@@ -15,12 +19,19 @@ If you pick an amount of characters that is not within our limit, you will be to
 <img width="1000" alt="Screen Shot 2022-05-06 at 3 59 37 PM" src="https://user-images.githubusercontent.com/101439331/167221707-04882b21-dd18-477e-81a3-97f3d09fec09.png">
 After choosing your character limit, you will be asked 
 Do you want Uppercase letters? Along with the correct buttons to press for yes and no. 
+![Screen Shot 2022-05-07 at 12 35 17 PM (2)](https://user-images.githubusercontent.com/101439331/167267391-364a89a3-7f51-44c3-a05c-e34e1db00d21.png)
+
 
 Do you want lowercase letters? 
+<img width="1440" alt="Screen Shot 2022-05-07 at 12 37 49 PM" src="https://user-images.githubusercontent.com/101439331/167267498-ca6a56b2-9dec-4a9c-8bec-4778bf5487ab.png">
+
 
 Do you want numbers?
+<img width="1440" alt="Screen Shot 2022-05-07 at 12 38 29 PM" src="https://user-images.githubusercontent.com/101439331/167267521-071e7e01-fe10-40a7-897f-ccd5342453c5.png">
+
 
 Do you want special characters? 
+<img width="1440" alt="Screen Shot 2022-05-07 at 12 39 01 PM" src="https://user-images.githubusercontent.com/101439331/167267535-17c51b00-75d1-4272-ac96-dc575926249d.png">
 
 If you answered "okay" to any of these questions it will generate a password with your specific criteria, including the number of characters you chose. 
 If you chose "cancel" to any questions it won't put those choices in the password. 
