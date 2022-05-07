@@ -19,7 +19,8 @@ If you pick an amount of characters that is not within our limit, you will be to
 <img width="1000" alt="Screen Shot 2022-05-06 at 3 59 37 PM" src="https://user-images.githubusercontent.com/101439331/167221707-04882b21-dd18-477e-81a3-97f3d09fec09.png">
 After choosing your character limit, you will be asked 
 Do you want Uppercase letters? Along with the correct buttons to press for yes and no. 
-![Screen Shot 2022-05-07 at 12 35 17 PM (2)](https://user-images.githubusercontent.com/101439331/167267391-364a89a3-7f51-44c3-a05c-e34e1db00d21.png)
+
+<img width="1440" alt="Screen Shot 2022-05-07 at 12 35 17 PM" src="https://user-images.githubusercontent.com/101439331/167267600-85b48180-818e-43e0-a7f4-c0704598dd7a.png">
 
 
 Do you want lowercase letters? 
